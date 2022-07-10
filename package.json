@@ -1,0 +1,20 @@
+{
+  "name": "gen-biblatex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2",
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.2.2"
+  }
+}
